@@ -1,5 +1,5 @@
 sidebar:
-  about: false
+  about: true
   education: true
   name: Erick C&oacute;rdova
   tagline: Full Stack Developer
