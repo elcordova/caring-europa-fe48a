@@ -13,7 +13,9 @@ sidebar:
   gitlab: null
   bitbucket: null
   twitter: '@erickLeninC'
-  stack-overflow: 7420509/elcordova
+  stack-overflow: 
+    id: 7420509/elcordova
+    name: 
   codewars: null
   goodreads: null
   languages:
