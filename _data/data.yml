@@ -73,9 +73,9 @@ experiences:
     time: 2016 - 2017
     company: 'UTMACH'
     details: |
-      Development and maintenance of web platform to manage accounting of corproinfo clients
-      in technologies such as php, MySQL, javascript, CSS, jQuery, 
-      start migration to framework codeigniter.
+      Development of production prediction module for agriculter wep application 
+      in technologies such as python, javascript, 
+      CSS, jQuery, datatables, and Django.
   - role: Technical Operator
     time: 2014 - 2016
     company: 'CORPROINFO Cia. Ltda, Machala'
