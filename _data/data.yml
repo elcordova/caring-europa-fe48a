@@ -78,9 +78,7 @@ experiences:
 projects:
   title: Projects
   intro: >
-    You can list your side projects or open source libraries in this section.
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et
-    ligula in nunc bibendum fringilla a eu lectus.
+    Here .
   assignments:
     - title: Velocity
       link: '#hook'
