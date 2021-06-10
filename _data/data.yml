@@ -69,13 +69,7 @@ experiences:
     time: 2017 - 2018
     company: 'CORPROINFO Cia. Ltda, Machala'
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Development and maintenance of web platform to manage accounting of corproinfo clients in technologies such as php, MySQL, javascript, CSS, jQuery, start migration to framework codeigniter.
 projects:
   title: Projects
   intro: >
