@@ -100,7 +100,7 @@ projects:
       tagline: >-
         manage players and teams soccer with angular and firebase
     - title: CarDeals
-      link: '#'
+      link: 'cardeals.elcordova.dev'
       tagline: >-
         List of cars deals to demostrate the power of pwa apps.
 publications:
