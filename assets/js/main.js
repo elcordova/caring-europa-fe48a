@@ -15,7 +15,7 @@ jQuery(document).ready(function($) {
         });
 
 
-        $('#download').on('click', ()=>{
+        $('#download').onClick(()=>{
             alert('here mf');
         })
 
