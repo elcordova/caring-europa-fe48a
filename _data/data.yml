@@ -153,8 +153,6 @@ publications:
 skills:
   title: Skills &amp; Proficiency
   toolset:
-    - name: Java
-      level: 98%
     - name: Javascript & jQuery
       level: 98%
     - name: Angular
