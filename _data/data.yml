@@ -99,7 +99,7 @@ projects:
       link: 'https://players.elcordova.dev/'
       tagline: >-
         manage players and teams soccer with angular and firebase
-    - title: Car
+    - title: CarDeals
       link: '#'
       tagline: >-
         A responsive Bootstrap one page theme designed to help app developers
