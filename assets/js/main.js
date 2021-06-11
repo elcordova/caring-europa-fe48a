@@ -22,7 +22,7 @@ jQuery(document).ready(function($) {
                 filename:     'elcordova_cv.pdf',
                 html2canvas:  { windowWidth: 1500, windowHeight: 3508},
                 pagebreak: { mode: ['css', 'legacy'] },
-                jsPDF:        { unit: 'px', format: 'a4', orientation: 'portrait', hotfixes : ["px_scaling"] }
+                jsPDF:        { unit: 'px', format: 'a4', orientation: 'portrait', precision:100, hotfixes : ["px_scaling"] }
                 };
             html2pdf().set(opt).from(wrapper).save('elcordova.pdf');
         });
