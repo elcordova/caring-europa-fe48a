@@ -18,7 +18,7 @@ jQuery(document).ready(function($) {
         $(".btn").click(function() {
             const wrapper = $(".wrapper")[0];
             var opt = {
-                margin:       1,
+                margin:       0,
                 filename:     'elcordova_cv.pdf',
                 image:        { type: 'jpeg', quality: 0.98 },
                 html2canvas:  { scale: 1 },
