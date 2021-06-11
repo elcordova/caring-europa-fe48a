@@ -91,7 +91,7 @@ projects:
       link: 'http://repositorio.utmachala.edu.ec/handle/48000/12471'
       tagline: >-
         investigation project to help to calculate the fertilizer required in base of floor and water data analitics.
-    - title: Shorter links
+    - title: Short-URL
       link: '#'
       tagline: >-
         Web app to allow you short a link of any internet source.
