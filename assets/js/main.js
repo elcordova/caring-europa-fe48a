@@ -24,7 +24,7 @@ jQuery(document).ready(function($) {
                 html2canvas:  { scale: 2 },
                 jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
                 };
-            html2pdf().set(opt)from(wrapper).save('elcordova.pdf');
+            html2pdf().set(opt).from(wrapper).save('elcordova.pdf');
         });
 
     });
