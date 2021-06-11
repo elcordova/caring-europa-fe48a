@@ -88,7 +88,7 @@ projects:
     Some of project that they are the most representatives and  mark a hito in my carear.
   assignments:
     - title: IOTMACH
-      link: '#http://repositorio.utmachala.edu.ec/handle/48000/12471'
+      link: 'http://repositorio.utmachala.edu.ec/handle/48000/12471'
       tagline: >-
         investigation project to help to calculate the fertilizer required in base of floor and water data analitics.
     - title: DevStudio
