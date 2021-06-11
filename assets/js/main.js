@@ -16,7 +16,7 @@ jQuery(document).ready(function($) {
 
 
         $(".btn").click(function() {
-            const wraper = $("")
+            const wraper = $(".wraper")
         });
 
     });
