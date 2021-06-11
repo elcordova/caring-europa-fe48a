@@ -15,9 +15,9 @@ jQuery(document).ready(function($) {
         });
 
 
-        $( "#download" ).click(function() {
-  alert( "Handler for .click() called." );
-});
+        // $( "#download" ).click(function() {
+            alert( "Handler for .click() called." );
+        // });
 
     });
    
