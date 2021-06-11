@@ -17,14 +17,14 @@ jQuery(document).ready(function($) {
 
         $(".btn").click(function() {
             const wrapper = $(".wrapper")[0];
-            var set = {
+            var opt = {
                 margin:       1,
                 filename:     'elcordova_cv.pdf',
                 image:        { type: 'jpeg', quality: 0.98 },
                 html2canvas:  { scale: 2 },
                 jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
                 };
-            html2pdf().set(set)from(wrapper).save('elcordova.pdf');
+            html2pdf().set(opt)from(wrapper).save('elcordova.pdf');
         });
 
     });
