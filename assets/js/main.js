@@ -16,7 +16,7 @@ jQuery(document).ready(function($) {
 
 
         $(".btn").click(function() {
-            alert( "Handler for .click() called." );
+            const wraper = $("")
         });
 
     });
