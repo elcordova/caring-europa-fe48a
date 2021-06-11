@@ -14,6 +14,9 @@ jQuery(document).ready(function($) {
             
         });
 
+
+        $('#download').on('click')
+
     });
    
     
