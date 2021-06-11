@@ -20,7 +20,7 @@ jQuery(document).ready(function($) {
             var opt = {
                 margin:       0,
                 filename:     'elcordova_cv.pdf',
-                html2canvas:  { windowWidth:  1500, 3508},
+                html2canvas:  { windowWidth:  1500, windowHeight:3508},
                 pagebreak: { mode: ['avoid-all', 'css', 'legacy'] },
                 jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
                 };
