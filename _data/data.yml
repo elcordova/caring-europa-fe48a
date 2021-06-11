@@ -92,7 +92,7 @@ projects:
       tagline: >-
         investigation project to help to calculate the fertilizer required in base of floor and water data analitics.
     - title: Short-URL
-      link: '#'
+      link: 'https://short-url.elcordova.dev/'
       tagline: >-
         Web app to allow you short a link of any internet source.
     - title: Tempo
