@@ -155,13 +155,13 @@ skills:
   toolset:
     - name: Critical Thinking
       level: 98%
+    - name: Problem Solving
+      level: 98%
     - name: Angular
       level: 98%
     - name: HTML5 & CSS
       level: 98%
     - name: Javascript
-      level: 98%
-    - name: Problem Solving
       level: 98%
     - name: Data Analitics
       level: 98%
