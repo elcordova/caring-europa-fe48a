@@ -21,6 +21,7 @@ jQuery(document).ready(function($) {
                 margin:       0,
                 filename:     'elcordova_cv.pdf',
                 html2canvas:  { windowWidth:  1500},
+                pagebreak: { mode: ['avoid-all', 'css', 'legacy'] },
                 jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
                 };
             html2pdf().set(opt).from(wrapper).save('elcordova.pdf');
