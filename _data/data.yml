@@ -13,7 +13,7 @@ sidebar:
   gitlab: null
   bitbucket: null
   twitter: '@erickLeninC'
-  stack-overflow: 
+  stack-overflow:
     id: 7420509
     name: elcordova
   codewars: null
@@ -32,17 +32,30 @@ sidebar:
       link: null
 career-profile:
   title: Career Profile
-  summary: |
+  summary: >
     Software and Data Enginer developer passionated by disrupt 
+
     technologies. sometimes play soccer and video games.
+
     I can generate value within an organization through technology, 
+
     implementing systems that automate, streamline, 
+
     and maximize the business processes of a company, 
-    always taking quality, value, and customer satisfaction as the main reference.
-    I am a peaceful person and open to new possibilities in the world of technology.
-    I am always in constant training to take my skills and empathy to a higher level improving as a person and as a professional.
+
+    always taking quality, value, and customer satisfaction as the main
+    reference.
+
+    I am a peaceful person and open to new possibilities in the world of
+    technology.
+
+    I am always in constant training to take my skills and empathy to a higher
+    level improving as a person and as a professional.
+
     One of my principles thinking style is.
+
     - "Be a free thinker and don't accept everything you hear as truth. 
+
     Be critical and evaluate what you believe in." -- Aristotle (384 - 322 BC)
 education:
   - degree: System Enginering
@@ -52,57 +65,72 @@ experiences:
   - role: Frontend Developer
     time: 2021 - Present
     company: 'Sendex LLC, Munich'
-    details: |
-      Frontend developer that develop sendex app, the principal work was develop a consistance design system, and iterable UI kit, one of my principal tools was angular, 
+    details: >
+      Frontend developer that develop sendex app, the principal work was develop
+      a consistance design system, and iterable UI kit, one of my principal
+      tools was angular, 
+
       because provide a great CLI and one of the biggest comunitity,
+
       here im learning how build amazing products to help people. 
   - role: Technical Consultant
     time: 2018 - 2021
     company: 'Krugercorp, Ecuador'
-    details: |
-      Fullstack developer that worked with tecnologies like Java in backed and Angular in fronted, 
-      here i undestood the concepts of corporative software and "the real word" of the a biggest companies i worked in alot of projects.
+    details: >
+      Fullstack developer that worked with tecnologies like Java in backed and
+      Angular in fronted, 
+
+      here i undestood the concepts of corporative software and "the real word"
+      of the a biggest companies i worked in alot of projects.
   - role: Software Developer
     time: 2017 - 2018
     company: 'CORPROINFO Cia. Ltda, Machala'
-    details: |
-      Development and maintenance of web platform to manage accounting of corproinfo clients
+    details: >
+      Development and maintenance of web platform to manage accounting of
+      corproinfo clients
+
       in technologies such as php, MySQL, javascript, CSS, jQuery, 
+
       start migration to framework codeigniter.
   - role: Investigator
     time: 2016 - 2017
-    company: 'UTMACH'
-    details: |
-      Development of production prediction module for agriculter wep application 
+    company: UTMACH
+    details: >
+      Development of production prediction module for agriculter wep
+      application 
+
       in technologies such as python, javascript, 
+
       CSS, jQuery, datatables, and Django.
   - role: Technical Operator
     time: 2014 - 2016
     company: 'CORPROINFO Cia. Ltda, Machala'
-    details: |
-      Information capture, managment company customer databases, reports of operational activities, 
-      development and implementation a query module with AS400 connection systems.
+    details: >
+      Information capture, managment company customer databases, reports of
+      operational activities, 
+
+      development and implementation a query module with AS400 connection
+      systems.
 projects:
   title: Projects
   intro: >
-    Some of project that they are the most representatives and  mark a hito in my carear.
+    Some of project that they are the most representatives and  mark a hito in
+    my carear.
   assignments:
     - title: IOTMACH
       link: 'http://repositorio.utmachala.edu.ec/handle/48000/12471'
       tagline: >-
-        investigation project to help to calculate the fertilizer required in base of floor and water data analitics.
+        investigation project to help to calculate the fertilizer required in
+        base of floor and water data analitics.
     - title: Short-URL
       link: 'https://short-url.elcordova.dev/'
-      tagline: >-
-        Web app to allow you short a link of any internet source.
+      tagline: Web app to allow you short a link of any internet source.
     - title: Players
       link: 'https://players.elcordova.dev/'
-      tagline: >-
-        manage players and teams soccer with angular and firebase
+      tagline: manage players and teams soccer with angular and firebase
     - title: CarDeals
       link: 'https://cardeals.elcordova.dev/'
-      tagline: >-
-        List of cars deals to demostrate the power of pwa apps.
+      tagline: List of cars deals to demonstrate the power of PWA apps.
 publications:
   title: Publications
   intro: |
