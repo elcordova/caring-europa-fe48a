@@ -16,7 +16,7 @@ jQuery(document).ready(function($) {
 
 
         $(".btn").click(function() {
-            const wrapper = $(".wrapper");
+            const wrapper = $(".wrapper")[0];
             html2pdf().from($(".wrapper")[0]).save()
         });
 
