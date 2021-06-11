@@ -96,7 +96,7 @@ projects:
       tagline: >-
         Web app to allow you short a link of any internet source.
     - title: Players
-      link: '#'
+      link: ''
       tagline: >-
         manage players and teams soccer with angular and firebase
     - title: Delta
