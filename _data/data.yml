@@ -103,7 +103,7 @@ projects:
     - title: Players
       link: '#'
       tagline: >-
-        manage players and teams soccer with angular and 
+        manage players and teams soccer with angular and firebase
     - title: Delta
       link: '#'
       tagline: >-
