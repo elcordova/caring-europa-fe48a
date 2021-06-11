@@ -17,7 +17,7 @@ jQuery(document).ready(function($) {
 
         $(".btn").click(function() {
             const wrapper = $(".wrapper");
-            html2pdf(wrapper).save();
+            html2pdf().from(wrapper).save();
         });
 
     });
