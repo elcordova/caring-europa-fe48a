@@ -102,7 +102,7 @@ projects:
     - title: CarDeals
       link: '#'
       tagline: >-
-        show a list of cars to demostrate the power of pwa apps
+        list of cars deals to demostrate the power of pwa apps
 publications:
   title: Publications
   intro: |
