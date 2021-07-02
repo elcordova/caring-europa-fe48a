@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-
+    const {annotate, annotationGroup} = RoughNotation;
     $('.level-bar-inner').css('width', '0');
     
     $(window).on('load', function() {
@@ -26,6 +26,29 @@ jQuery(document).ready(function($) {
                 };
             html2pdf().set(opt).from(wrapper).save('elcordova.pdf');
         });
+
+        const downloadButon = $(".btn")[0];
+        const downloadButtonAnimation = annotate(downloadButon, { type: 'box' });
+        downloadButtonAnimation.show();
+
+        const skillset = $(".skillset")[0];
+        const skillsetAnimation = annotate(skillset, { type: 'crossed-off' });
+        skillsetAnimation.show();
+
+        var jobTitleArray = [];
+        $(".upper-row").each((index,e)=>{
+            const annotation = annotate(e, { type: 'highlight', color:'yellow' });
+            jobTitleArray.push(annotation);
+        });
+
+        $(".project-title").each((index,e)=>{
+            const annotation = annotate(e, { type: 'circle', color:'red' });
+            jobTitleArray.push(annotation);
+        });
+        
+        const ag = annotationGroup(jobTitleArray);
+        ag.show();
+        
 
     });
    
